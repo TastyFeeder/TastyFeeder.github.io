@@ -7,6 +7,7 @@
 - Email: leo258x@gmail.com
 - Cell: +886 978-375-872
 - 現居地: 台北市
+- Blog :http://leo258x.pixnet.net/blog
 
 **專業技能**
 ---
