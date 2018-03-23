@@ -65,7 +65,7 @@
       images: [
         "img/bgslides/name1.jpg",
         "img/bgslides/test1.jpg",
-        "img/bgslides/3.jpg"
+        "img/bgslides/vim.jpg"
       ],
 
       onStart: function() {},
