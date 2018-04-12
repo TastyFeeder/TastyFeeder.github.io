@@ -101,12 +101,12 @@
     var scrollTop = $(window).scrollTop();
 
     if (scrollTop > 200) {
-      $('.navbar-default').css('display', 'block');
-      $('.navbar-default').addClass('fixed-to-top');
+      //$('.navbar-default').css('display', 'block');
+      //$('.navbar-default').addClass('fixed-to-top');
 
     } else if (scrollTop == 0) {
 
-      $('.navbar-default').removeClass('fixed-to-top');
+      //$('.navbar-default').removeClass('fixed-to-top');
     }
   });
 
@@ -125,7 +125,7 @@
     });
 
   }
-
+  /*
   function navbar() {
 
     if ($(window).scrollTop() > 1) {
@@ -135,6 +135,7 @@
     }
 
   }
+  */
 
   $(document).ready(function() {
 
